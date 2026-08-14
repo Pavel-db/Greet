@@ -1,4 +1,4 @@
-def greet(age):
- print(f"Hello, how {age} old are you?!")
+def greet(name):
+ print(f"Hello, {name}!")
 if __name__ == "__main__":
- greet(25)
+ greet("Victor")
