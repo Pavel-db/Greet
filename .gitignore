@@ -1,3 +1,6 @@
+# .gitignore
+*.pyc
+__pycache__/
 .vscode/
 # Создано плагином поддержки .ignore (hsz.mobi)
 ### Шаблон Python
